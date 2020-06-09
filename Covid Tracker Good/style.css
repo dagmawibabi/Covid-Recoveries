@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: white;
+	text-align: center;
+	background-color: #043927;
+	font-family: 'PT Sans Caption', sans-serif;
+}
+#title {
+	padding: 1%;
+	color: black;
+	font-size: 260%;
+	background: linear-gradient(to right, #3fe0d0, #39ff14);
+}
+#description {
+	margin: 2%; 
+	color: #3fe0f0;
+	font-size: 130%;
+}
+table {
+	font-size: 150%;
+	display: inline-flex;
+	border: 4px solid #4cbb17;
+}
+td {
+	border: 1px solid #4cbb17;
+}
+#countrySpecific {
+	margin-left: -14%;
+	padding: 7%;
+}
+
+#world {
+	padding: 6%;
+}
+
+h3 {
+	margin: 10%;
+	margin-left: -5%;
+}
+
+.headers {
+	color: #8b9dc3;
+	text-align: left;
+}
+.regions {
+	color: #57a0d3;
+	text-align: left;
+}
+.recovered {
+	color: #73c2fb;
+	text-align: left;
+}
+
+#quote {
+	margin: 2%;
+	color: #ffa700;
+	font-size: 130%;
+}
+footer {
+	color: black;
+	background: linear-gradient(to right, #3fe0d0, #39ff14);
+}
